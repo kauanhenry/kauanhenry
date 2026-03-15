@@ -1,4 +1,4 @@
-### Olá, eu sou o Kauan! 👋
+### Olá, me chamo Kauan! 👋
 
 - 🎓 Estudante de Ciência da Computação na **UFPB**
 - 🤖 Focado em **Otimização de Sistemas Robóticos** e Programação de Alta Performance
