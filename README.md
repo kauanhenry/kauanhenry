@@ -28,11 +28,10 @@
 
 ---
 
-### 🎮 Um pouco de diversão...
+### 🎮
 
 <div align="center">
-  <img src="<img width="800" height="600" alt="animaçãoGit" src="https://github.com/user-attachments/assets/985558c7-f95d-4909-a12c-a37de9f487e7" />
-" width="600px" alt="Novo Gif">
+  <img src="jogo.gif" width="600px" alt="Animação de Games">
 </div>
 
 ---
