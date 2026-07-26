@@ -31,7 +31,7 @@
 ### 🎮 Um pouco de diversão...
 
 <div align="center">
-  <img src="https://br.pinterest.com/rafaelmga/games-gif/" width="600px" alt="https://br.pinterest.com/rafaelmga/games-gif/">
+  <img src="https://br.pinterest.com/rafaelmga/games-gif/" width="600px" alt="Novo Gif">
 </div>
 
 ---
