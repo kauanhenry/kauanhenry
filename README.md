@@ -28,14 +28,6 @@
 
 ---
 
-### 🎮
-
-<div align="center">
-  <img src="aminaçãoGit.gif" width="600px" alt="Animação de Games">
-</div>
-
----
-
 ### 📫 Onde me encontrar
 
 <div align="center">
@@ -50,8 +42,8 @@
 
 </div>
 
+---
 
-
-
+### 🎮
 <img width="800" height="600" alt="animaçãoGit" src="https://github.com/user-attachments/assets/ccc6b0c6-20ba-458b-b2ed-113a72f8aeca" />
 
