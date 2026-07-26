@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 🌍 Sou o Kauan Henry</h1>
+<h1 align="center">Olá, mundo! 🌍 Me chamo Kauan Henry</h1>
 <h3 align="center">Estudante de Ciência da Computação na UFPB | Desenvolvedor em formação</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🎓 Atualmente cursando **Ciência da Computação** na Universidade Federal da Paraíba (**UFPB**).
 - 🚀 Focado em expandir meus conhecimentos no desenvolvimento de **aplicativos**, **jogos** e **sites**.
-- 💡 Apaixonado por criar soluções eficientes, escrever códigos limpos e aprender novas tecnologias.
+- 💡 Apaixonado por criar **soluções eficientes**, escrever **códigos limpos** e aprender **novas tecnologias.**
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🎮 Um pouco de diversão...
 
 <div align="center">
-  <img src="Super Mario Nintendo GIF.gif" width="600px" alt="Super Mario GIF">
+  <img src="https://br.pinterest.com/rafaelmga/games-gif/" width="600px" alt="Super Mario GIF">
 </div>
 
 ---
@@ -44,7 +44,7 @@
   <a href="mailto:henry8kauan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kauan-henry-7b8b4b36a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
