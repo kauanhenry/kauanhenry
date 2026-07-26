@@ -45,5 +45,6 @@
 ---
 
 ### 🎮
+<div align="center">
 <img width="800" height="600" alt="animaçãoGit" src="https://github.com/user-attachments/assets/ccc6b0c6-20ba-458b-b2ed-113a72f8aeca" />
-
+</div>
