@@ -31,7 +31,7 @@
 ### 🎮
 
 <div align="center">
-  <img src="jogo.gif" width="600px" alt="Animação de Games">
+  <img src="aminaçãoGit.gif" width="600px" alt="Animação de Games">
 </div>
 
 ---
